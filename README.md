@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in COBOL related to data type handling.  The program attempts to perform arithmetic on a numeric field that is accidentally defined as alphanumeric. This can lead to unpredictable results and runtime errors. The solution shows how to correctly define the data types to prevent this issue.
